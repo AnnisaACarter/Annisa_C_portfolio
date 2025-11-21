@@ -64,7 +64,7 @@ export default function Home() {
         <div className="relative z-20 flex flex-col items-center justify-center p-4 text-center">
           <h1 className="text-3xl md:text-6xl font-extrabold tracking-tight drop-shadow-lg
                          bg-gradient-to-r from-blue-300 to-teal-200 text-transparent bg-clip-text">
-            Product Designer
+            UX Engineer
           </h1>
           <p>Blending UX research, UI design, and frontend development to craft smooth, stylish experiences.</p>
         </div>

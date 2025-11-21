@@ -36,8 +36,48 @@ export default function About() {
           About Me:
         </h2>
         <p className="text-lg md:text-xl leading-relaxed">
-          I’m a product designer with a frontend background and a UX mindset. I map user flows, prototype quick demos, and evolve them into polished, intuitive experiences. I love crafting creative, unique UI that feels both fresh and functional designs that surprise users in delightful ways while staying clear and usable. My years in customer service sharpened my empathy and problem-solving skills, giving me firsthand insight into how people think, feel, and interact with products. My focus: thoughtful structure, meaningful microcopy, smooth interactions, and real world performance. I design for inclusivity and accessibility ensuring contrast and typography are clear, navigation is effortless, and assistive tech users have full support so everyone can engage with what I create.
+        I’m Annisa, a UX Engineer who loves building clean interfaces and solving real user problems. I work across design and front end development using React, Next.js, Tailwind, and modern JavaScript. My background in customer support and conversational design helps me create products that feel intuitive, thoughtful, and easy to use.
+        Right now I’m focused on leveling up my skills and creating projects that show the full range of my design thinking and engineering abilities.
+       
         </p>
+        <a np
+    
+    href="/AnnisaCResumeUXEngineer.pdf" 
+    
+   
+    download="Annisa_C_Resume_UX_Engineer.pdf" 
+    
+    
+    className="glass-hover 
+               px-6 
+               py-2 
+               bg-white 
+               text-blue-800 
+               font-semibold 
+               rounded-full
+               border-2 
+               border-black
+               shadow-inner
+               shadow-blue-400/50
+               hover:bg-blue-50 
+               hover:text-blue-900
+               hover:shadow-blue-600/75 
+               hover:shadow-xl
+               transition-all 
+               duration-300 
+               ease-in-out
+               focus:outline-none 
+               focus:ring-2 
+               focus:ring-blue-500 
+               focus:ring-opacity-75
+               w-full 
+               md:w-auto 
+               text-lg 
+               text-center 
+               inline-block"
+>
+     My Resume
+</a>
       </div>
     </div>
   );
